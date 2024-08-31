@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/ShahddElsayed/Social-links-profile/blob/main/social-links-solution.jpeg)
-
+![](desktop-solution.jpeg)
+![](mobile-solution.jpeg)
 
 ### Links
 
